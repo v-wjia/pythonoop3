@@ -144,3 +144,4 @@ class HouseRental(Rental, House):
         return init
 
     prompt_init = staticmethod(prompt_init)
+
